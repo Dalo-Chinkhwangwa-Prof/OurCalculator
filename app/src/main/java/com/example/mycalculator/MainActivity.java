@@ -60,7 +60,6 @@ public class MainActivity extends AppCompatActivity {
             case REMAINDER:
                 answerValue = firstValue % secondValue;
                 break;
-
             case MULTIPLY:
                 answerValue = firstValue * secondValue;
                 break;
